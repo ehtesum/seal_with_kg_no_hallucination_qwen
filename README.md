@@ -232,6 +232,4 @@ Potential extensions:
 
 ------------------------------------------------------------------------
 
-# License
 
-This project is intended for academic and research use.
